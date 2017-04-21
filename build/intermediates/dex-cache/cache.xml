@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/d936dd83a4947f90f865b38909126345b4c80bf4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3245c513ceee97df915bf6e55f351c986d6d44e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d685dad9a92c8a027208090ff31f03bc53f11a3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/402706d06508e261bb2c00805b80bc45b48204d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6fbf9aa0cf08b3031529f1e48ebec36ebba5dfa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9f92fcbc42c7209779b0e4fadc0e6586503631ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/21fa2f56f454db5e2f0f9fa93290120dcad3c8fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2d70f09050f5b5e6dcd2771aac04b2be1591a06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/ac497f36161e6a11bf04f9c887f084b717ed9c8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce7b9b46868f41fdf2903c51d42bd08f197f1635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e02c415bdf9f58d9e6f198556d2ac0ba30a5b56e">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2d7d156ba8c94c0ab559b095b8eb73ced265ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/bd8169bf2f1d6c7c0be34dda12156e7ad3eb49b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c34ac45724f2f6c1b8f18fa31e8d7e93ed12d09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/550b0e6e4239dc8d22f57997a64a5e7e89c7ce03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8c4212acd711503e6eab9e5867b7a1fbcf285a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/a2603d9be7cb1b55be084713c226ce643ec39629/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65759983f242312b58e7bfc0dce268ac32885b51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/bc5213b3023a33320cf573db132b4bcc2521ad5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b70d921bc8c23dee1be5640794ec7a3669c28100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/medicodesk/.android/build-cache/01a3c2ce0469e5184d58dbc1fbb9180439307000/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/media/medicodesk/E/Android Tutorials/AutoCompleteText/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3990e1d094999d00cb064219e441b67847c34542/classes.dex" />
+    </item>
+
+</items>
